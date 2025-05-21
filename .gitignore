@@ -1,0 +1,13 @@
+# 忽略临时文件夹
+.idea/
+.venv/
+__pycache__/
+dist/
+
+# 忽略 Python 编译缓存
+*.pyc
+*.pyo
+*.pyd
+
+# 忽略日志或临时文件
+*.log
